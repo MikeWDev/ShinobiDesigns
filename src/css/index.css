@@ -17,7 +17,9 @@ ul {
 a {
   text-decoration: none;
 }
-
+.svg a svg:hover {
+  fill: #fff;
+}
 .text-primary {
   color: #326dee;
 }
