@@ -13,7 +13,7 @@ const Libary = () => {
       </nav>
       <div class="container">
         <div className=" mb-2  svg">
-          <Link to="/">
+          <Link to="/ShinobiDesigns">
             <ArrowCounterClockwise
               className="btn-outlined-secondary text-secondary text-hover-white"
               size={32}

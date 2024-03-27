@@ -4,11 +4,11 @@ import { createBrowserRouter, RouterProvider } from "react-router-dom";
 function App() {
   const router = createBrowserRouter([
     {
-      path: "/",
+      path: "/ShinobiDesigns",
       element: <HomePage />,
     },
     {
-      path: "libary",
+      path: "/ShinobiDesigns/libary",
       element: <Libary />,
     },
   ]);
