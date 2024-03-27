@@ -2,7 +2,7 @@
   "name": "sass-tutorial",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/MikeWDev/ShinobiDesigns/",
+  "homepage": "https://mikewdev.github.io/ShinobiDesigns/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
